@@ -1,2 +1,28 @@
-# 65e12ad0-dental-practice-management-boo
-Built for dental practice professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Dental Practice Management Booking And Appointment — fully con
+# Dental Practice Management Booking and Appointment System WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYfZhbHh1g03lmbzScZz2E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYfZhbHh1g03lmbzScZz2E)
+
